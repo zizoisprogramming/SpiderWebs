@@ -32,7 +32,8 @@ A multi-threaded search engine that crawls, indexes, ranks, and retrieves releva
 ---
 
 ## Features
-- Multi-threaded crawling and indexing.
+- Multi-threaded crawling.
+- Page indexing
 - TF-IDF + PageRank for ranking.
 - Tag-weighted scoring.
 - Stemmed query processing.
